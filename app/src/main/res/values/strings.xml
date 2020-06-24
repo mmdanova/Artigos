@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CadastroArtigos</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_add">Adicionar</string>
+    <string-array name="status">
+        <item>Produção</item>
+        <item>Revisão</item>
+        <item>Aguardando Publicação</item>
+        <item>Publicado</item>
+    </string-array>
+</resources>
